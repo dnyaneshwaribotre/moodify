@@ -1,0 +1,420 @@
+title,artist,year,language,genre,mood,emotion,energy,popularity
+Flowers,Miley Cyrus,2023,english,pop,happy,joy,medium,95
+Espresso,Sabrina Carpenter,2024,english,pop,happy,joy,high,96
+Please Please Please,Sabrina Carpenter,2024,english,pop,romantic,love,medium,92
+Die With A Smile,Lady Gaga & Bruno Mars,2024,english,pop,romantic,love,medium,97
+BIRDS OF A FEATHER,Billie Eilish,2024,english,pop,romantic,love,low,96
+Not Like Us,Kendrick Lamar,2024,english,hip-hop,angry,anger,high,95
+Beautiful Things,Benson Boone,2024,english,pop,sad,sadness,medium,90
+A Bar Song (Tipsy),Shaboozey,2024,english,country,party,excitement,high,91
+Houdini,Dua Lipa,2023,english,pop,energetic,excitement,high,86
+Dance The Night,Dua Lipa,2023,english,pop,party,excitement,high,88
+Lose Control,Teddy Swims,2023,english,r&b,sad,sadness,medium,90
+Greedy,Tate McRae,2023,english,pop,energetic,excitement,high,87
+vampire,Olivia Rodrigo,2023,english,pop,angry,anger,medium,87
+good 4 u,Olivia Rodrigo,2021,english,rock,angry,anger,high,88
+Kill Bill,SZA,2022,english,r&b,angry,anger,medium,90
+Snooze,SZA,2022,english,r&b,romantic,love,low,85
+Water,Tyla,2023,english,r&b,party,excitement,medium,86
+Stick Season,Noah Kahan,2022,english,folk,sad,sadness,medium,89
+Good Luck Babe!,Chappell Roan,2024,english,pop,party,excitement,high,90
+Too Sweet,Hozier,2024,english,indie,chill,neutral,medium,89
+Lovin On Me,Jack Harlow,2023,english,hip-hop,party,excitement,high,85
+Calm Down,Rema & Selena Gomez,2022,english,afrobeats,chill,neutral,medium,94
+Anti-Hero,Taylor Swift,2022,english,pop,sad,stress,medium,93
+Cruel Summer,Taylor Swift,2019,english,pop,happy,joy,high,93
+Blinding Lights,The Weeknd,2019,english,pop,energetic,excitement,high,98
+Starboy,The Weeknd,2016,english,r&b,chill,neutral,medium,92
+Levitating,Dua Lipa,2020,english,pop,party,joy,high,92
+As It Was,Harry Styles,2022,english,pop,nostalgic,sadness,medium,94
+Watermelon Sugar,Harry Styles,2019,english,pop,happy,joy,medium,90
+Heat Waves,Glass Animals,2020,english,indie,nostalgic,sadness,medium,92
+Sunflower,Post Malone & Swae Lee,2018,english,hip-hop,chill,joy,medium,92
+Perfect,Ed Sheeran,2017,english,pop,romantic,love,low,95
+Shape of You,Ed Sheeran,2017,english,pop,party,joy,high,96
+Someone You Loved,Lewis Capaldi,2018,english,pop,sad,sadness,low,92
+Golden Hour,JVKE,2022,english,pop,romantic,love,medium,86
+Until I Found You,Stephen Sanchez,2021,english,pop,romantic,love,low,85
+Lover,Taylor Swift,2019,english,pop,romantic,love,low,88
+Ceilings,Lizzy McAlpine,2022,english,indie,sad,sadness,low,76
+Believer,Imagine Dragons,2017,english,rock,energetic,anger,high,92
+Radioactive,Imagine Dragons,2012,english,rock,energetic,excitement,high,90
+Sweater Weather,The Neighbourhood,2012,english,indie,chill,neutral,medium,90
+Riptide,Vance Joy,2013,english,indie,happy,joy,medium,89
+Sunset Lover,Petit Biscuit,2015,english,electronic,chill,neutral,low,82
+Coffee,beabadoobee,2020,english,lo-fi,chill,neutral,low,78
+Snowman,Sia,2017,english,pop,calm,neutral,low,72
+Weightless,Marconi Union,2011,english,ambient,sleepy,stress,low,70
+Clair de Lune,Claude Debussy,1905,instrumental,classical,sleepy,neutral,low,84
+Gymnopedie No. 1,Erik Satie,1888,instrumental,classical,calm,neutral,low,80
+River Flows in You,Yiruma,2001,instrumental,classical,calm,love,low,88
+Experience,Ludovico Einaudi,2013,instrumental,classical,focused,neutral,medium,86
+Nuvole Bianche,Ludovico Einaudi,2004,instrumental,classical,calm,neutral,low,85
+Comptine d'un autre ete,Yann Tiersen,2001,instrumental,classical,focused,neutral,low,80
+Time,Hans Zimmer,2010,instrumental,soundtrack,focused,neutral,medium,88
+Intro,The xx,2009,instrumental,indie,focused,neutral,medium,78
+Bohemian Rhapsody,Queen,1975,english,rock,nostalgic,surprise,medium,99
+Don't Stop Me Now,Queen,1978,english,rock,party,excitement,high,95
+Under Pressure,Queen & David Bowie,1981,english,rock,energetic,stress,high,90
+Hotel California,Eagles,1976,english,rock,nostalgic,neutral,medium,96
+Imagine,John Lennon,1971,english,rock,calm,love,low,94
+Stairway to Heaven,Led Zeppelin,1971,english,rock,nostalgic,neutral,medium,92
+Yesterday,The Beatles,1965,english,rock,sad,sadness,low,93
+Hey Jude,The Beatles,1968,english,rock,nostalgic,love,medium,93
+Let It Be,The Beatles,1970,english,rock,calm,neutral,low,92
+Here Comes The Sun,The Beatles,1969,english,rock,happy,joy,medium,94
+Billie Jean,Michael Jackson,1982,english,pop,energetic,fear,high,96
+Thriller,Michael Jackson,1982,english,pop,party,fear,high,95
+Don't Stop Believin',Journey,1981,english,rock,happy,joy,high,95
+Sweet Child O' Mine,Guns N' Roses,1987,english,rock,energetic,love,high,93
+Smells Like Teen Spirit,Nirvana,1991,english,rock,angry,anger,high,94
+Wonderwall,Oasis,1995,english,rock,nostalgic,neutral,medium,94
+Fly Me to the Moon,Frank Sinatra,1964,english,jazz,romantic,love,low,88
+What a Wonderful World,Louis Armstrong,1967,english,jazz,calm,joy,low,91
+Stand By Me,Ben E. King,1961,english,soul,romantic,love,low,90
+Let's Stay Together,Al Green,1972,english,soul,romantic,love,low,84
+Take Five,Dave Brubeck,1959,instrumental,jazz,focused,neutral,low,84
+Dancing Queen,ABBA,1976,english,pop,party,joy,high,93
+Africa,Toto,1982,english,rock,nostalgic,love,medium,93
+Take On Me,a-ha,1985,english,pop,happy,joy,high,92
+Every Breath You Take,The Police,1983,english,rock,romantic,love,medium,90
+Livin' on a Prayer,Bon Jovi,1986,english,rock,energetic,excitement,high,92
+Eye of the Tiger,Survivor,1982,english,rock,energetic,anger,high,92
+I Will Always Love You,Whitney Houston,1992,english,pop,sad,love,low,92
+Hallelujah,Jeff Buckley,1994,english,folk,sad,sadness,low,90
+Nothing Compares 2 U,Sinead O'Connor,1990,english,pop,sad,sadness,low,86
+Tears in Heaven,Eric Clapton,1992,english,rock,sad,sadness,low,88
+Creep,Radiohead,1992,english,rock,sad,sadness,medium,90
+Mad World,Tears for Fears,1982,english,pop,sad,sadness,low,84
+Sweet Dreams (Are Made of This),Eurythmics,1983,english,pop,chill,neutral,medium,90
+Total Eclipse of the Heart,Bonnie Tyler,1983,english,pop,romantic,love,medium,88
+September,"Earth, Wind & Fire",1978,english,soul,happy,joy,high,93
+Superstition,Stevie Wonder,1972,english,soul,party,excitement,high,88
+Lag Jaa Gale,Lata Mangeshkar,1964,hindi,bollywood,romantic,love,low,92
+Pyar Hua Ikrar Hua,Lata Mangeshkar & Manna Dey,1955,hindi,bollywood,romantic,love,low,82
+Mere Sapno Ki Rani,Kishore Kumar,1969,hindi,bollywood,happy,joy,medium,86
+Roop Tera Mastana,Kishore Kumar,1969,hindi,bollywood,romantic,love,medium,84
+Chura Liya Hai Tumne,Asha Bhosle & Mohammed Rafi,1973,hindi,bollywood,romantic,love,medium,82
+Dum Maro Dum,Asha Bhosle,1971,hindi,bollywood,chill,neutral,medium,80
+Yeh Dosti,Kishore Kumar & Manna Dey,1975,hindi,bollywood,happy,joy,medium,88
+Zindagi Ek Safar Hai Suhana,Kishore Kumar,1971,hindi,bollywood,happy,joy,medium,86
+Pal Pal Dil Ke Paas,Kishore Kumar,1973,hindi,bollywood,romantic,love,low,82
+Kuch To Log Kahenge,Kishore Kumar,1972,hindi,bollywood,calm,neutral,low,78
+Mere Naina Sawan Bhadon,Kishore Kumar,1976,hindi,bollywood,sad,sadness,low,80
+Baharon Phool Barsao,Mohammed Rafi,1966,hindi,bollywood,romantic,love,low,80
+Chaudhvin Ka Chand,Mohammed Rafi,1960,hindi,bollywood,romantic,love,low,82
+Ae Mere Watan Ke Logon,Lata Mangeshkar,1963,hindi,bollywood,nostalgic,sadness,low,84
+Ek Ladki Ko Dekha Toh Aisa Laga,Kumar Sanu,1994,hindi,bollywood,romantic,love,medium,86
+Tujhe Dekha To,Kumar Sanu & Lata Mangeshkar,1995,hindi,bollywood,romantic,love,medium,90
+Pehla Nasha,Udit Narayan & Sadhana Sargam,1992,hindi,bollywood,romantic,love,low,88
+Papa Kehte Hain,Udit Narayan,1988,hindi,bollywood,nostalgic,joy,low,82
+Kuch Kuch Hota Hai,Udit Narayan & Alka Yagnik,1998,hindi,bollywood,romantic,love,medium,92
+Chaiyya Chaiyya,Sukhwinder Singh,1998,hindi,bollywood,energetic,excitement,high,90
+Dil Se Re,A. R. Rahman,1998,hindi,bollywood,romantic,love,medium,84
+Kal Ho Naa Ho,Sonu Nigam,2003,hindi,bollywood,nostalgic,love,low,92
+Chitthi Aayi Hai,Pankaj Udhas,1986,hindi,ghazal,nostalgic,sadness,low,80
+Tum Itna Jo Muskura Rahe Ho,Jagjit Singh,1982,hindi,ghazal,sad,sadness,low,80
+Hosh Walon Ko Khabar Kya,Jagjit Singh,1999,hindi,ghazal,calm,love,low,78
+Tum Hi Ho,Arijit Singh,2013,hindi,bollywood,sad,love,low,97
+Channa Mereya,Arijit Singh,2016,hindi,bollywood,sad,sadness,low,93
+Kun Faya Kun,A. R. Rahman & Javed Ali,2011,hindi,sufi,calm,neutral,low,92
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,2008,hindi,bollywood,romantic,love,low,88
+Kar Gayi Chull,Badshah & Neha Kakkar,2016,hindi,bollywood,party,excitement,high,86
+Badtameez Dil,Benny Dayal,2013,hindi,bollywood,party,excitement,high,88
+Balam Pichkari,Vishal Dadlani & Shalmali Kholgade,2013,hindi,bollywood,party,joy,high,90
+Nagada Sang Dhol,Shreya Ghoshal,2013,hindi,bollywood,party,excitement,high,86
+London Thumakda,Labh Janjua,2014,hindi,bollywood,party,joy,high,84
+Kala Chashma,Amar Arshi,2016,hindi,bollywood,party,joy,high,88
+Apna Time Aayega,Ranveer Singh,2019,hindi,hip-hop,energetic,excitement,high,86
+Kesariya,Arijit Singh,2022,hindi,bollywood,romantic,love,low,95
+Apna Bana Le,Arijit Singh,2022,hindi,bollywood,romantic,love,low,92
+Raataan Lambiyan,Jubin Nautiyal,2021,hindi,bollywood,romantic,love,low,92
+Chaleya,Arijit Singh & Shilpa Rao,2023,hindi,bollywood,romantic,love,medium,93
+Tere Vaaste,Varun Jain & Sachin-Jigar,2023,hindi,bollywood,romantic,love,low,91
+Jhoome Jo Pathaan,Arijit Singh,2023,hindi,bollywood,party,excitement,high,90
+Zinda Banda,Anirudh Ravichander,2023,hindi,bollywood,energetic,excitement,high,89
+Heeriye,Jasleen Royal & Arijit Singh,2023,hindi,bollywood,romantic,love,low,90
+O Bedardeya,Arijit Singh,2023,hindi,bollywood,sad,sadness,low,88
+Kahani Suno 2.0,Kaifi Khalil,2023,hindi,indie,sad,sadness,low,89
+Pehle Bhi Main,Vishal Mishra,2023,hindi,bollywood,sad,love,low,88
+Satranga,Arijit Singh,2023,hindi,bollywood,romantic,love,low,89
+Phir Aur Kya Chahiye,Arijit Singh,2024,hindi,bollywood,romantic,love,low,88
+Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,2024,hindi,bollywood,party,excitement,high,89
+Husn,Anuv Jain,2024,hindi,indie,sad,love,low,91
+Tauba Tauba,Karan Aujla,2024,hindi,bollywood,party,excitement,high,90
+Saiyaara,Faheem Abdullah,2025,hindi,bollywood,romantic,love,low,94
+Lover,Diljit Dosanjh,2022,punjabi,punjabi-pop,romantic,love,medium,85
+Brown Munde,AP Dhillon,2020,punjabi,punjabi-pop,energetic,excitement,high,88
+Excuses,AP Dhillon,2020,punjabi,punjabi-pop,chill,neutral,medium,88
+Softly,Karan Aujla,2023,punjabi,punjabi-pop,chill,love,medium,87
+Pasoori,Ali Sethi & Shae Gill,2022,punjabi,folk,chill,love,medium,92
+Why This Kolaveri Di,Dhanush,2011,tamil,pop,party,joy,medium,90
+Vaathi Coming,Anirudh Ravichander,2021,tamil,pop,party,excitement,high,86
+Arabic Kuthu,Anirudh Ravichander,2022,tamil,pop,party,excitement,high,89
+Kaavaalaa,Anirudh Ravichander & Shilpa Rao,2023,tamil,pop,party,excitement,high,88
+Munbe Vaa,Shreya Ghoshal & Naresh Iyer,2006,tamil,pop,romantic,love,low,84
+Butta Bomma,Armaan Malik,2020,telugu,pop,romantic,love,medium,87
+Naatu Naatu,Rahul Sipligunj & Kaala Bhairava,2022,telugu,pop,energetic,excitement,high,92
+Srivalli,Sid Sriram,2021,telugu,pop,romantic,love,low,88
+Samajavaragamana,Sid Sriram,2020,telugu,pop,romantic,love,low,86
+Zingaat,Ajay-Atul,2016,marathi,marathi-pop,party,excitement,high,92
+Sairat Zaala Ji,Ajay-Atul,2016,marathi,marathi-pop,happy,love,medium,88
+Yad Lagla,Ajay-Atul,2016,marathi,marathi-pop,romantic,love,low,86
+Apsara Aali,Bela Shende,2010,marathi,marathi-pop,party,excitement,high,86
+Wajle Ki Bara,Ajay-Atul,2010,marathi,marathi-pop,party,excitement,high,84
+Mauli Mauli,Ajay-Atul,2014,marathi,devotional,calm,joy,medium,86
+Chandra,Shreya Ghoshal & Ajay-Atul,2022,marathi,marathi-pop,romantic,love,medium,88
+Gulabi Sadi,Sanju Rathod,2024,marathi,marathi-pop,party,joy,high,90
+Hanuman Chalisa,Hariharan,2011,hindi,devotional,calm,neutral,low,90
+Saturn,SZA,2024,english,r&b,calm,neutral,low,86
+Ocean Eyes,Billie Eilish,2016,english,pop,calm,love,low,84
+lovely,Billie Eilish & Khalid,2018,english,pop,sad,sadness,low,90
+when the party's over,Billie Eilish,2018,english,pop,sleepy,sadness,low,86
+Night Changes,One Direction,2014,english,pop,calm,love,low,88
+Apocalypse,Cigarettes After Sex,2017,english,indie,sleepy,love,low,88
+Glimpse of Us,Joji,2022,english,r&b,sad,sadness,low,91
+Fix You,Coldplay,2005,english,rock,sad,sadness,low,92
+The Scientist,Coldplay,2002,english,rock,sad,sadness,low,92
+Yellow,Coldplay,2000,english,rock,calm,love,low,92
+Clocks,Coldplay,2002,english,rock,focused,neutral,medium,90
+Viva La Vida,Coldplay,2008,english,rock,energetic,excitement,high,92
+Strobe,deadmau5,2009,instrumental,electronic,focused,neutral,medium,80
+Divenire,Ludovico Einaudi,2006,instrumental,classical,focused,neutral,medium,80
+Cornfield Chase,Hans Zimmer,2014,instrumental,soundtrack,focused,neutral,medium,86
+Summer,Joe Hisaishi,1999,instrumental,soundtrack,focused,joy,medium,84
+Lose Yourself,Eminem,2002,english,hip-hop,focused,anger,high,95
+Houdini,Eminem,2024,english,hip-hop,angry,anger,high,84
+HUMBLE.,Kendrick Lamar,2017,english,hip-hop,angry,anger,high,92
+bad guy,Billie Eilish,2019,english,pop,angry,anger,medium,94
+Killing In The Name,Rage Against the Machine,1992,english,rock,angry,anger,high,88
+In The End,Linkin Park,2000,english,rock,angry,sadness,high,95
+Numb,Linkin Park,2003,english,rock,angry,stress,medium,92
+Break Stuff,Limp Bizkit,1999,english,rock,angry,anger,high,84
+Fortnight,Taylor Swift & Post Malone,2024,english,pop,nostalgic,sadness,low,90
+All Too Well (10 Minute Version),Taylor Swift,2021,english,pop,nostalgic,sadness,low,88
+cardigan,Taylor Swift,2020,english,indie,nostalgic,sadness,low,88
+Daylight,David Kushner,2023,english,pop,sad,sadness,low,86
+Chasing Cars,Snow Patrol,2006,english,rock,nostalgic,love,low,90
+Photograph,Ed Sheeran,2014,english,pop,nostalgic,love,low,90
+The Night We Met,Lord Huron,2015,english,indie,nostalgic,sadness,low,90
+Kabhi Kabhi Aditi Zindagi,Rashid Ali,2008,hindi,bollywood,calm,joy,low,80
+Phir Se Ud Chala,Mohit Chauhan,2011,hindi,bollywood,happy,joy,medium,84
+Tum Se Hi,Mohit Chauhan,2007,hindi,bollywood,nostalgic,love,low,90
+Agar Tum Saath Ho,Arijit Singh & Alka Yagnik,2015,hindi,bollywood,sad,love,low,92
+Ae Dil Hai Mushkil,Arijit Singh,2016,hindi,bollywood,sad,sadness,low,92
+Tera Ban Jaunga,Akhil Sachdeva & Tulsi Kumar,2019,hindi,bollywood,romantic,love,low,88
+Iktara,Kavita Seth,2009,hindi,bollywood,calm,neutral,low,84
+Khairiyat,Arijit Singh,2019,hindi,bollywood,sad,sadness,low,90
+Ilahi,Arijit Singh,2013,hindi,bollywood,happy,joy,medium,88
+Tera Yaar Hoon Main,Arijit Singh,2018,hindi,bollywood,happy,joy,low,86
+Dil Diyan Gallan,Atif Aslam,2017,hindi,bollywood,romantic,love,low,88
+Tere Hawaale,Arijit Singh & Shilpa Rao,2022,hindi,bollywood,romantic,love,low,90
+Deva Deva,Arijit Singh,2022,hindi,bollywood,energetic,excitement,medium,88
+Lutt Putt Gaya,Arijit Singh,2023,hindi,bollywood,happy,joy,high,89
+Ve Kamleya,Arijit Singh & Shreya Ghoshal,2023,hindi,bollywood,romantic,love,low,88
+Maan Meri Jaan,King,2022,hindi,indie,romantic,love,low,92
+Neele Neele Ambar Par,Kishore Kumar,1981,hindi,bollywood,calm,love,low,80
+Aaj Phir Jeene Ki Tamanna Hai,Lata Mangeshkar,1965,hindi,bollywood,happy,joy,medium,82
+Tere Bina Zindagi Se Koi Shikwa,Kishore Kumar & Lata Mangeshkar,1975,hindi,bollywood,sad,love,low,82
+Ghungroo,Arijit Singh & Shilpa Rao,2019,hindi,bollywood,party,excitement,high,88
+Dil Dhadakne Do,Priyanka Chopra & Farhan Akhtar,2015,hindi,bollywood,happy,joy,medium,78
+Aankhon Mein Teri,KK,2007,hindi,bollywood,romantic,love,medium,84
+Tadap Tadap,KK,1999,hindi,bollywood,sad,sadness,medium,88
+Yaaron,KK,2008,hindi,bollywood,nostalgic,joy,medium,84
+Bol Na Halke Halke,Rahat Fateh Ali Khan,2008,hindi,bollywood,romantic,love,low,82
+Tum Mile,Neeraj Shridhar,2009,hindi,bollywood,romantic,love,medium,86
+Rang De Basanti,A. R. Rahman,2006,hindi,bollywood,energetic,excitement,high,86
+Jai Ho,A. R. Rahman,2008,hindi,bollywood,energetic,excitement,high,90
+Vande Mataram,A. R. Rahman,1997,hindi,patriotic,energetic,joy,medium,86
+Kajra Re,Alisha Chinai,2005,hindi,bollywood,party,excitement,high,84
+Chikni Chameli,Shreya Ghoshal,2012,hindi,bollywood,party,excitement,high,84
+Malhari,Vishal Dadlani,2015,hindi,bollywood,energetic,excitement,high,86
+Deewani Mastani,Shreya Ghoshal,2015,hindi,bollywood,romantic,love,medium,86
+Sunn Raha Hai Na Tu,Ankit Tiwari,2013,hindi,bollywood,sad,love,low,90
+Ae Mere Humsafar,Udit Narayan & Alka Yagnik,1988,hindi,bollywood,romantic,love,low,82
+Gazab Ka Hai Din,Udit Narayan & Alka Yagnik,1988,hindi,bollywood,romantic,love,medium,82
+Mera Joota Hai Japani,Mukesh,1955,hindi,bollywood,happy,joy,medium,80
+Awara Hoon,Mukesh,1951,hindi,bollywood,nostalgic,joy,medium,78
+Pyar Kiya To Darna Kya,Lata Mangeshkar,1960,hindi,bollywood,romantic,love,medium,82
+Jaane Kahan Gaye Woh Din,Mukesh,1970,hindi,bollywood,nostalgic,sadness,low,80
+Kabhi Kabhie Mere Dil Mein,Mukesh,1976,hindi,bollywood,romantic,love,low,86
+Ek Pyar Ka Nagma Hai,Lata Mangeshkar & Mukesh,1972,hindi,bollywood,nostalgic,love,low,84
+Aap Jaisa Koi,Nazia Hassan,1980,hindi,bollywood,party,joy,high,84
+Mehbooba Mehbooba,R. D. Burman,1975,hindi,bollywood,party,excitement,high,82
+Piya Tu Ab To Aaja,Asha Bhosle,1971,hindi,bollywood,party,excitement,high,80
+Ek Do Teen,Alka Yagnik,1988,hindi,bollywood,party,excitement,high,84
+Jumma Chumma De De,Kishore Kumar & Sudesh Bhosle,1991,hindi,bollywood,party,joy,high,80
+Humma Humma,Remo Fernandes & Shweta Shetty,1995,hindi,bollywood,party,excitement,high,82
+Tu Hi Re,Hariharan,1995,hindi,bollywood,romantic,love,low,84
+Sandese Aate Hain,Sonu Nigam,1997,hindi,bollywood,nostalgic,sadness,low,86
+Dil Chahta Hai,Shankar Mahadevan,2001,hindi,bollywood,happy,joy,medium,86
+Kabhi Khushi Kabhie Gham,Lata Mangeshkar & Sonu Nigam,2001,hindi,bollywood,nostalgic,sadness,low,86
+Suraj Hua Maddham,Sonu Nigam & Alka Yagnik,2001,hindi,bollywood,romantic,love,low,88
+Bole Chudiyan,Udit Narayan & Alka Yagnik,2001,hindi,bollywood,party,joy,high,84
+Dola Re Dola,Shreya Ghoshal & Kunal Ganjawala,2002,hindi,bollywood,party,excitement,high,86
+Bairi Piya,Shreya Ghoshal,2002,hindi,bollywood,sad,sadness,low,82
+Dhoom Machale,Sunidhi Chauhan,2004,hindi,bollywood,energetic,excitement,high,86
+Aadat,Atif Aslam,2004,hindi,bollywood,sad,sadness,medium,88
+Woh Lamhe,Atif Aslam,2006,hindi,bollywood,sad,sadness,low,86
+Kabhi Alvida Naa Kehna,Sonu Nigam & Alka Yagnik,2006,hindi,bollywood,sad,sadness,low,84
+Mitwa,Shafqat Amanat Ali,2006,hindi,bollywood,calm,love,low,84
+Chak De India,Sukhwinder Singh,2007,hindi,bollywood,energetic,excitement,high,88
+Deewangi Deewangi,Shaan & Udit Narayan,2007,hindi,bollywood,party,joy,high,82
+Dil Ibaadat,KK,2008,hindi,bollywood,romantic,love,low,86
+Pehli Nazar Mein,Atif Aslam,2008,hindi,bollywood,romantic,love,low,88
+Tu Jaane Na,Atif Aslam,2009,hindi,bollywood,sad,love,low,86
+Tera Hone Laga Hoon,Atif Aslam,2009,hindi,bollywood,romantic,love,low,86
+Pee Loon,Mohit Chauhan,2010,hindi,bollywood,romantic,love,low,84
+Sadda Haq,Mohit Chauhan,2011,hindi,bollywood,energetic,anger,high,86
+Senorita,Farhan Akhtar & Hrithik Roshan,2011,hindi,bollywood,party,joy,high,84
+Phir Le Aaya Dil,Arijit Singh,2012,hindi,bollywood,sad,love,low,86
+Kabira,Tochi Raina & Rekha Bhardwaj,2013,hindi,bollywood,calm,love,low,90
+Zinda,Siddharth Mahadevan,2013,hindi,bollywood,energetic,excitement,high,80
+Muskurane Ki Wajah,Arijit Singh,2013,hindi,bollywood,happy,joy,low,84
+Kabhi Jo Baadal Barse,Arijit Singh,2013,hindi,bollywood,sad,love,low,84
+Mann Mera,Gajendra Verma,2013,hindi,indie,calm,sadness,low,84
+Galliyan,Ankit Tiwari,2014,hindi,bollywood,sad,love,low,88
+Sooraj Dooba Hai,Arijit Singh & Aditi Singh Sharma,2014,hindi,bollywood,party,joy,high,86
+Banjaara,Mohammed Irfan,2014,hindi,bollywood,sad,sadness,low,84
+Mast Magan,Arijit Singh,2014,hindi,bollywood,calm,love,low,86
+Hamari Adhuri Kahani,Arijit Singh,2015,hindi,bollywood,sad,sadness,low,88
+Gerua,Arijit Singh & Antara Mitra,2015,hindi,bollywood,romantic,love,low,92
+Dekha Hazaron Dafaa,Arijit Singh & Palak Muchhal,2015,hindi,bollywood,romantic,love,low,86
+Bol Do Na Zara,Armaan Malik,2015,hindi,bollywood,romantic,love,low,84
+Main Rahoon Ya Na Rahoon,Armaan Malik & Palak Muchhal,2015,hindi,bollywood,sad,love,low,88
+Humnava,Papon,2015,hindi,bollywood,romantic,love,low,84
+Soch Na Sake,Arijit Singh,2016,hindi,bollywood,sad,love,low,84
+Bulleya,Amit Mishra,2016,hindi,bollywood,sad,sadness,medium,90
+Sultan,Sukhwinder Singh,2016,hindi,bollywood,energetic,excitement,high,82
+Raabta,Arijit Singh,2017,hindi,bollywood,romantic,love,low,86
+Ik Vaari Aa,Arijit Singh,2017,hindi,bollywood,romantic,love,low,86
+Ghar Se Nikalte Hi,Armaan Malik,2017,hindi,bollywood,nostalgic,joy,low,82
+Dilbaro,Harshdeep Kaur & Vibha Saraf,2018,hindi,bollywood,sad,sadness,low,86
+Ae Watan,Arijit Singh,2018,hindi,bollywood,energetic,joy,medium,86
+Kar Har Maidaan Fateh,Sukhwinder Singh & Shreya Ghoshal,2018,hindi,bollywood,energetic,excitement,high,82
+Bekhayali,Sachet Tandon,2019,hindi,bollywood,sad,sadness,medium,94
+Kaise Hua,Vishal Mishra,2019,hindi,bollywood,sad,love,low,88
+Teri Mitti,B Praak,2019,hindi,bollywood,sad,sadness,low,90
+Tujhe Kitna Chahne Lage,Arijit Singh,2019,hindi,bollywood,romantic,love,low,88
+Tum Hi Aana,Jubin Nautiyal,2019,hindi,bollywood,sad,love,low,88
+Param Sundari,Shreya Ghoshal,2021,hindi,bollywood,party,joy,high,88
+Besharam Rang,Shilpa Rao & Caralisa Monteiro,2022,hindi,bollywood,party,excitement,high,84
+Ram Siya Ram,Sachet Tandon & Parampara Thakur,2023,hindi,devotional,calm,joy,low,88
+Sajni,Arijit Singh,2024,hindi,bollywood,sad,love,low,88
+Tu Hai Kahan,AUR,2024,hindi,indie,calm,love,low,86
+Afreen Afreen,Rahat Fateh Ali Khan & Momina Mustehsan,2016,hindi,sufi,romantic,love,low,90
+Tajdar-e-Haram,Atif Aslam,2016,hindi,sufi,calm,joy,low,84
+Mundian To Bach Ke,Panjabi MC,1998,punjabi,bhangra,party,excitement,high,86
+Brown Rang,Yo Yo Honey Singh,2011,punjabi,punjabi-pop,party,excitement,high,80
+Blue Eyes,Yo Yo Honey Singh,2013,punjabi,punjabi-pop,party,excitement,high,86
+Love Dose,Yo Yo Honey Singh,2014,punjabi,punjabi-pop,party,excitement,high,82
+Dil Chori,Yo Yo Honey Singh,2018,punjabi,punjabi-pop,party,joy,high,86
+Millionaire,Yo Yo Honey Singh,2024,punjabi,punjabi-pop,party,excitement,high,86
+Ishare Tere,Guru Randhawa,2016,punjabi,punjabi-pop,romantic,love,medium,84
+High Rated Gabru,Guru Randhawa,2017,punjabi,punjabi-pop,party,joy,high,84
+Lahore,Guru Randhawa,2017,punjabi,punjabi-pop,romantic,love,medium,88
+Suit Suit,Guru Randhawa & Arjun,2017,punjabi,punjabi-pop,party,joy,high,86
+Naah,Harrdy Sandhu,2017,punjabi,punjabi-pop,sad,love,medium,84
+Kya Baat Ay,Harrdy Sandhu,2019,punjabi,punjabi-pop,party,joy,high,84
+Qismat,Ammy Virk,2018,punjabi,punjabi-pop,sad,love,low,88
+Laung Laachi,Mannat Noor,2018,punjabi,punjabi-pop,happy,joy,medium,86
+So High,Sidhu Moose Wala,2018,punjabi,punjabi-hiphop,energetic,excitement,high,86
+295,Sidhu Moose Wala,2021,punjabi,punjabi-hiphop,energetic,anger,high,90
+The Last Ride,Sidhu Moose Wala,2022,punjabi,punjabi-hiphop,sad,sadness,medium,92
+Insane,AP Dhillon,2021,punjabi,punjabi-pop,chill,love,medium,86
+With You,AP Dhillon,2023,punjabi,punjabi-pop,romantic,love,low,88
+Winning Speech,Karan Aujla,2022,punjabi,punjabi-hiphop,energetic,excitement,high,86
+Players,Karan Aujla,2023,punjabi,punjabi-hiphop,party,excitement,high,86
+Cheques,Shubh,2023,punjabi,punjabi-hiphop,chill,neutral,medium,88
+Still Rollin,Shubh,2023,punjabi,punjabi-hiphop,energetic,excitement,high,86
+Rowdy Baby,Dhanush & Dhee,2018,tamil,pop,party,excitement,high,90
+Aaluma Doluma,Anirudh Ravichander,2015,tamil,pop,party,excitement,high,84
+Hukum,Anirudh Ravichander,2023,tamil,pop,energetic,excitement,high,88
+Naa Ready,Vijay & Anirudh Ravichander,2023,tamil,pop,energetic,excitement,high,86
+Manasilaayo,Mano & Anirudh Ravichander,2024,tamil,pop,party,joy,high,86
+Rakkamma Kaiya Thattu,S. P. Balasubrahmanyam & Swarnalatha,1991,tamil,pop,party,excitement,high,82
+Chinna Chinna Aasai,Minmini,1992,tamil,pop,calm,love,low,84
+Ramuloo Ramulaa,Anurag Kulkarni & Mangli,2020,telugu,pop,party,joy,high,86
+Chuttamalle,Shilpa Rao,2024,telugu,pop,romantic,love,low,90
+Kissik,Sublahshini,2024,telugu,pop,party,excitement,high,90
+Pushpa Pushpa,Nakash Aziz,2024,telugu,pop,energetic,excitement,high,88
+Aika Dajiba,Ajay-Atul,2016,marathi,marathi-pop,party,excitement,high,84
+Deva Shree Ganesha,Ajay-Atul,2012,marathi,devotional,energetic,joy,high,88
+Khel Mandala,Ajay-Atul,2010,marathi,marathi-pop,energetic,joy,medium,80
+Tum Ho,Mohit Chauhan,2009,hindi,bollywood,romantic,love,low,86
+Nadaan Parindey,A. R. Rahman & Mohit Chauhan,2011,hindi,rock,energetic,excitement,high,86
+Kho Gaye Hum Kahan,Prateek Kuhad & Jasleen Royal,2015,hindi,indie,focused,neutral,low,80
+Co2,Prateek Kuhad,2018,hindi,indie,chill,neutral,low,82
+Kasoor,Prateek Kuhad,2018,hindi,indie,romantic,love,low,84
+Bulleya,Amit Mishra & Shilpa Rao,2016,hindi,bollywood,romantic,sadness,medium,88
+Naina,Arijit Singh,2016,hindi,bollywood,sad,sadness,low,84
+Samjhawan,Arijit Singh & Shreya Ghoshal,2014,hindi,bollywood,romantic,love,low,90
+Humdard,Arijit Singh,2014,hindi,bollywood,sad,sadness,low,88
+Zaroorat,Mustafa Zahid,2014,hindi,bollywood,sad,sadness,low,84
+Ve Maahi,Arijit Singh & Asees Kaur,2019,hindi,bollywood,romantic,love,low,90
+Hawayein,Arijit Singh,2017,hindi,bollywood,romantic,love,low,88
+Mere Rashke Qamar,Rahat Fateh Ali Khan,2017,hindi,sufi,romantic,love,medium,90
+Tere Bina,A. R. Rahman,2007,hindi,bollywood,calm,love,low,82
+Maa,Shankar Mahadevan,2007,hindi,bollywood,sad,love,low,86
+Arziyan,Javed Ali & Kailash Kher,2009,hindi,sufi,calm,neutral,low,84
+Khwaja Mere Khwaja,A. R. Rahman,2008,hindi,sufi,calm,joy,low,84
+Chanda Hai Tu,Lata Mangeshkar,1969,hindi,bollywood,sleepy,love,low,76
+Sooraj Hua Maddham,Sonu Nigam & Alka Yagnik,2001,hindi,bollywood,romantic,love,low,90
+Raat Kali Ek Khwab Mein,Kishore Kumar,1960,hindi,bollywood,sleepy,love,low,72
+Chupke Chupke Raat Din,Ghulam Ali,1977,hindi,ghazal,sleepy,sadness,low,82
+Jeena Yahan Marna Yahan,Mukesh,1970,hindi,bollywood,nostalgic,sadness,low,82
+Dil Ke Jharokhe Mein,Mohammed Rafi,1967,hindi,bollywood,romantic,love,medium,78
+Raina Beeti Jaye,Lata Mangeshkar,1971,hindi,bollywood,sleepy,sadness,low,76
+Chingari Koi Bhadke,Kishore Kumar,1971,hindi,bollywood,sad,sadness,low,82
+Tum Aa Gaye Ho Noor Aa Gaya Hai,Lata Mangeshkar & Kishore Kumar,1975,hindi,bollywood,romantic,love,low,84
+Ajeeb Dastan Hai Yeh,Lata Mangeshkar,1960,hindi,bollywood,sad,love,low,82
+Ye Raatein Ye Mausam,Kishore Kumar & Asha Bhosle,1964,hindi,bollywood,romantic,love,low,80
+Ye Shaam Mastani,Kishore Kumar,1971,hindi,bollywood,chill,love,low,86
+Khoya Khoya Chand,Mohammed Rafi,1958,hindi,bollywood,romantic,love,low,76
+Ek Chatur Naar,Kishore Kumar & Manna Dey,1968,hindi,bollywood,party,joy,high,82
+O Haseena Zulfon Wali,Mohammed Rafi & Asha Bhosle,1966,hindi,bollywood,party,joy,high,80
+Jaan Pehechan Ho,Mohammed Rafi,1965,hindi,bollywood,party,joy,high,78
+Dhak Dhak Karne Laga,Udit Narayan & Anuradha Paudwal,1988,hindi,bollywood,party,excitement,high,82
+Tamma Tamma,Bappi Lahiri & Anuradha Paudwal,1990,hindi,bollywood,party,excitement,high,84
+Jumma Chumma De De,Amitabh Bachchan & Sudesh Bhosle,1991,hindi,bollywood,party,joy,high,80
+Chunari Chunari,Abhijeet & Anuradha Paudwal,1999,hindi,bollywood,party,joy,high,82
+Taal Se Taal Mila,Alka Yagnik & Udit Narayan,1999,hindi,bollywood,party,joy,high,80
+Dil To Pagal Hai,Lata Mangeshkar & Udit Narayan,1997,hindi,bollywood,romantic,love,medium,86
+Mehndi Laga Ke Rakhna,Lata Mangeshkar & Udit Narayan,1995,hindi,bollywood,happy,love,medium,86
+Dola Re Dola,Shreya Ghoshal & Kavita Krishnamurthy,2002,hindi,bollywood,party,excitement,high,84
+Mitwa,Shankar Mahadevan,2006,hindi,bollywood,nostalgic,love,low,86
+Tere Liye,Roop Kumar Rathod & Lata Mangeshkar,2004,hindi,bollywood,romantic,love,low,84
+Do Pal,Lata Mangeshkar & Sonu Nigam,2004,hindi,bollywood,romantic,love,low,86
+Main Agar Kahoon,Sonu Nigam & Shreya Ghoshal,2007,hindi,bollywood,romantic,love,low,88
+Tujhe Bhula Diya,Mohit Chauhan & Shruti Pathak,2009,hindi,bollywood,sad,sadness,low,84
+Jashn-E-Bahara,Javed Ali,2008,hindi,bollywood,calm,love,low,86
+Rock On!!,Farhan Akhtar,2008,hindi,rock,energetic,excitement,high,80
+Bhaag D.K. Bose,Ram Sampath,2011,hindi,rock,angry,anger,high,82
+Emotional Atyachar,Amit Trivedi,2010,hindi,rock,energetic,excitement,high,78
+Sheila Ki Jawani,Sunidhi Chauhan,2010,hindi,bollywood,party,excitement,high,88
+Munni Badnaam Hui,Mamta Sharma,2010,hindi,bollywood,party,excitement,high,86
+Chammak Challo,Akon & Hamsika Iyer,2011,hindi,bollywood,party,excitement,high,80
+Abhi Toh Party Shuru Hui Hai,Badshah,2015,hindi,hip-hop,party,excitement,high,86
+DJ Waley Babu,Badshah,2015,hindi,hip-hop,party,excitement,high,84
+Gallan Goodiyaan,Yashita Sharma,2015,hindi,bollywood,party,joy,high,84
+Nashe Si Chadh Gayi,Arijit Singh,2016,hindi,bollywood,party,love,high,86
+Tareefan,Badshah & QARAN,2018,hindi,hip-hop,party,excitement,high,86
+Dilbar,Neha Kakkar,2018,hindi,bollywood,party,excitement,high,88
+Ek Toh Kum Zindagani,Neha Kakkar,2019,hindi,bollywood,party,excitement,high,82
+Coca Cola Tu,Tony Kakkar,2020,hindi,pop,party,excitement,high,82
+Genda Phool,Badshah & Payal Dev,2020,hindi,hip-hop,party,joy,high,84
+Lehanga,Jass Manak,2019,punjabi,punjabi-pop,party,joy,high,86
+Tunak Tunak Tun,Daler Mehndi,1998,punjabi,bhangra,party,joy,high,86
+Bolo Ta Ra Ra,Daler Mehndi,1997,punjabi,bhangra,party,joy,high,80
+Legend,Sidhu Moose Wala,2020,punjabi,punjabi-pop,energetic,anger,high,88
+Elevated,Shubh,2023,punjabi,punjabi-pop,chill,neutral,medium,88
+We Rollin,Shubh,2022,punjabi,punjabi-pop,energetic,excitement,high,88
+Kannazhaga,Dhanush & Shruti Haasan,2012,tamil,pop,romantic,love,low,84
+Ranjithame,Vijay & M. M. Manasi,2022,tamil,pop,party,joy,high,84
+Vaseegara,Bombay Jayashri,2001,tamil,pop,romantic,love,low,84
+Kadhal Rojave,S. P. Balasubrahmanyam,1992,tamil,pop,romantic,love,low,82
+Inkem Inkem Inkem Kaavaale,Sid Sriram,2018,telugu,pop,romantic,love,low,88
+Nee Kannu Neeli Samudram,Javed Ali,2021,telugu,pop,romantic,love,low,84
+Mere Gully Mein,Divine & Naezy,2019,hindi,hip-hop,angry,anger,high,88
+Sher Aaya Sher,Divine,2019,hindi,hip-hop,energetic,anger,high,84
+Khalibali,Shivam Pathak,2018,hindi,bollywood,angry,anger,high,82
